@@ -1,0 +1,110 @@
+Request Description,Request Category,Solution,Path
+Network storage unavailable,Network Issues,If you don't have access permission then you can not see network storage,manual
+Unable to access content on portal,Access Denied,We have checked the issue. Please restart your system once and check access,manual
+I need to take backup of my laptop,BackUp,Go to settings -> Backup then select network storage as backup point,manual
+Emails are not syncing in MIcrosoft Outlook,Mail Issue,Check your network connection and the retry,manual
+Database is unable to connect,Database Issue,Check your network connection with database,manual
+Network storage is inaccessible,Network Issues,"Check your network connection, if network is down then you cant access network storage",manual
+Cannot login on portal,Access Denied,If content is already deleted then you cant access that. Confirmed with user system reboot solved issue,manual
+I require backup of my laptop,BackUp,Contact to IT department,manual
+Emails are not getting refreshed in MIcrosoft Outlook,Mail Issue,"Open Outlook and click on the File tab. Click on Account Settings and open the settings for the affected account, then click on the Repair button",manual
+Unable to access database,Database Issue,Database server is down for maintenace,manual
+Denied access to Network storage,Network Issues,Network storage is only awailable for specific regions not all regions,manual
+Access denied to portal,Access Denied,Content format is not supported to your system. You are granted user permission ,manual
+my laptop needs to be backed up.,BackUp,You can enable auto backup option from settings,manual
+Emails in MIcrosoft Outlook are not refreshing,Mail Issue,"If you can sync your email when the firewall is turned off. Goto Windows Defender Security Center.
+Select Fire and network protection > Allow an app through firewall > Change settings",manual
+Unable to login in database,Database Issue,Check access credentials for database connection. Database went down for 10 min. Please check again,manual
+Network storage unavailable,Network Issues,If you don't have access permission then you can not see network storage,manual
+Unable to access content on portal,Access Denied,We have checked the issue. Please restart your system once and check access,manual
+I need to take backup of my laptop,BackUp,Go to settings -> Backup then select network storage as backup point,manual
+Emails are not syncing in MIcrosoft Outlook,Mail Issue,Check your network connection and the retry,manual
+Database is unable to connect,Database Issue,Check your network connection with database,manual
+Network storage is inaccessible,Network Issues,"Check your network connection, if network is down then you cant access network storage",manual
+Cannot login on portal,Access Denied,If content is already deleted then you cant access that. Confirmed with user system reboot solved issue,manual
+I require backup of my laptop,BackUp,Contact to IT department,manual
+Emails are not getting refreshed in MIcrosoft Outlook,Mail Issue,"Open Outlook and click on the File tab. Click on Account Settings and open the settings for the affected account, then click on the Repair button",manual
+Unable to access database,Database Issue,Database server is down for maintenace,manual
+Denied access to Network storage,Network Issues,Network storage is only awailable for specific regions not all regions,manual
+Access denied to portal,Access Denied,Content format is not supported to your system. You are granted user permission ,manual
+my laptop needs to be backed up.,BackUp,You can enable auto backup option from settings,manual
+Emails in MIcrosoft Outlook are not refreshing,Mail Issue,"If you can sync your email when the firewall is turned off. Goto Windows Defender Security Center.
+Select Fire and network protection > Allow an app through firewall > Change settings",manual
+Unable to login in database,Database Issue,Check access credentials for database connection. Database went down for 10 min. Please check again,manual
+Create instance of mysql on aws,Applications Deployment,"Creating mysql instance on aws
+Blueprint : mysql
+Location : aws",auto
+Create instance of mysql on azure,Applications Deployment,"Creating mysql instance on azure
+Blueprint : mysql
+Location : azure",manual
+On aws create mysql instance ,Applications Deployment,"Creating mysql instance on aws
+Blueprint : mysql
+Location : aws",auto
+On azure create mysql instance,Applications Deployment,"Creating mysql instance on azure
+Blueprint : mysql
+Location : azure",manual
+Deploy mysql instance on aws,Applications Deployment,"Deploying mysql instance on aws
+Blueprint : mysql
+Location : aws",auto
+Deploy mysql instance on azure,Applications Deployment,"Deploying mysql instance on azure
+Blueprint : mysql
+Location : azure",manual
+On aws deploy mysql instance ,Applications Deployment,"Deploying mysql instance on aws
+Blueprint : mysql
+Location : aws",auto
+On azure deploy mysql instance ,Applications Deployment,"Deploying mysql instance on azure
+Blueprint : mysql
+Location : azure",manual
+Create instance of mongoDB on aws,Applications Deployment,"Creating mongoDB instance on aws
+Blueprint : mongoDB
+Location : aws",auto
+Create instance of mongoDB on azure,Applications Deployment,"Creating mongoDB instance on azure
+Blueprint : mongoDB
+Location : azure",manual
+On aws create mongoDB instance ,Applications Deployment,"Creating mongoDB instance on aws
+Blueprint : mongoDB
+Location : aws",auto
+On azure create mongoDB instance,Applications Deployment,"Creating mongoDB instance on azure
+Blueprint : mongoDB
+Location : azure",manual
+Deploy mongoDB instance on aws,Applications Deployment,"Deploying mongoDB instance on aws
+Blueprint : mongoDB
+Location : aws",auto
+Deploy mongoDB instance on azure,Applications Deployment,"Deploying mongoDB instance on azure
+Blueprint : mongoDB
+Location : azure",manual
+On aws deploy mongoDB instance ,Applications Deployment,"Deploying mongoDB instance on aws
+Blueprint : mongoDB
+Location : aws",auto
+On azure deploy mongoDB instance ,Applications Deployment,"Deploying mongoDB instance on azure
+Blueprint : mongoDB
+Location : azure",manual
+Create instance of wordpress on aws,AWS Deployer,"Creating wordpress instance on aws
+Blueprint : wordpress
+Location : aws",auto
+Create instance of wordpress on azure,AWS Deployer,"Creating wordpress instance on azure
+Blueprint : wordpress
+Location : azure",manual
+On aws create wordpress instance ,AWS Deployer,"Creating wordpress instance on aws
+Blueprint : wordpress
+Location : aws",auto
+On azure create wordpress instance,AWS Deployer,"Creating wordpress instance on azure
+Blueprint : wordpress
+Location : azure",manual
+Deploy wordpress instance on aws,AWS Deployer,"Deploying wordpress instance on aws
+Blueprint : wordpress
+Location : aws",auto
+Deploy wordpress instance on azure,AWS Deployer,"Deploying wordpress instance on azure
+Blueprint : wordpress
+Location : azure",manual
+On aws deploy wordpress instance ,AWS Deployer,"Deploying wordpress instance on aws
+Blueprint : wordpress
+Location : aws",auto
+On azure deploy wordpress instance ,AWS Deployer,"Deploying wordpress instance on azure
+Blueprint : wordpress
+Location : azure",manual
+Create user Rahul,RPA User Creation,User Created : Rahul,auto
+Please create user Rahul,RPA User Creation,User Created : Rahul,auto
+Kindly create user Rahul,RPA User Creation,User Created : Rahul,auto
+Create user as Rahul,RPA User Creation,User Created : Rahul,auto
+Create a user as Rahul,RPA User Creation,User Created : Rahul,auto
