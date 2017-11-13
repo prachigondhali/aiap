@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/AIAP_experiments/ABCNN_v1/tp_model/model_Topic.tflearn"
+all_model_checkpoint_paths: "/home/ubuntu/AIAP_experiments/ABCNN_v1/tp_model/model_Topic.tflearn"
