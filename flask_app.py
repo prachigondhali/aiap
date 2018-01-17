@@ -15,16 +15,16 @@ topic_obj = Topic()
 #topic_obj.trainPath()
 topic_obj.reloadModelAndData()
 print("Topic modeling model restored")
-@app.route('/', methods = ['GET'])
+@app.route('/topic_modeling/welcome', methods = ['GET'])
 def index():
         return "Welcome to ABCNN!"
-@app.route('/retrain', methods = ['GET'])
+@app.route('/topic_modeling/retrain', methods = ['GET'])
 def retrain_models():
         tf.reset_default_graph()
         topic_obj.trainPath()
         topic_obj.reloadModelAndData()
         return "Retrainig Done!!"
-@app.route('/query', methods = ['POST'])
+@app.route('/topic_modeling/query', methods = ['POST'])
 def Topic_modeling():
         #Extract data from request
         data=request.get_json(force=True)
